@@ -1,0 +1,30 @@
+{
+  "name": "subserver",
+  "version": "0.0.1",
+  "description": "A \"sub server\" that is used by Mangium to lighten the load on the main installation. Useful for if you want to span Mangium across multiple servers/nodes",
+  "main": "src/subserver.js",
+  "scripts": {
+    "start": "node src/subserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangium/subserver.git"
+  },
+  "author": "Floffah",
+  "license": "SEE LICENSE IN LICEnSE",
+  "bugs": {
+    "url": "https://github.com/Mangium/subserver/issues"
+  },
+  "homepage": "https://github.com/Mangium/subserver#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dockerode": "^3.2.0",
+    "draftlog": "^1.0.12",
+    "kind-of": "^6.0.3",
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "stacktrace-parser": "^0.1.10",
+    "time-stamp": "^2.2.0",
+    "uuid": "^8.2.0"
+  }
+}
