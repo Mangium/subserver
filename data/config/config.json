@@ -1,9 +1,0 @@
-{
-  "database": {
-    "type": "sqlite"
-  },
-  "docker": {
-    "version": "v1.40",
-    "socketPath": "//./pipe/docker_engine"
-  }
-}
