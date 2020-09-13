@@ -22,7 +22,7 @@
     "draftlog": "^1.0.12",
     "kind-of": "^6.0.3",
     "lowdb": "^1.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "stacktrace-parser": "^0.1.10",
     "time-stamp": "^2.2.0",
     "uuid": "^8.2.0"
