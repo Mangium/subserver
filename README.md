@@ -1,3 +1,5 @@
+[Reason for archival](https://github.com/Mangium/mangium/issues/8)
+
 # subserver
 A "sub server" that is used by Mangium to lighten the load on the main installation. Useful for if you want to span Mangium across multiple servers/nodes
 
